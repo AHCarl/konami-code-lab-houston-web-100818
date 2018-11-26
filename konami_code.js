@@ -30,6 +30,6 @@ function init() {
   } else {
     index = 0;
   }
-}, true)
+})
 }
 
