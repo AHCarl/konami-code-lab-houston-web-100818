@@ -11,8 +11,8 @@ const codes = [
   "a"
 ];
 
-document.addEventListener('keydown', function() {
-  
+document.addEventListener('keydown', function(e) {
+  if (e.)
 })
 
 function init() {
