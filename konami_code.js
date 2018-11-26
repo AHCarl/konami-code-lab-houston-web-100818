@@ -11,7 +11,7 @@ const codes = [
   "a"
 ];
 
-document.addEventListener('keydown', function(e) {
+document.body.addEventListener('keydown', function(e) {
   const keyName = e.key;
   return keyName
 })
