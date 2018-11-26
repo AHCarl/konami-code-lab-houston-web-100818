@@ -11,6 +11,8 @@ const codes = [
   "a"
 ];
 
+document.addEventListener()
+
 function init() {
-  // your code here
+  
 }
